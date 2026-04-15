@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nMost popular restaurants in the top range of their local market for proven foot traffic and review volume. \n\nThese are the highest-velocity, actively transacting accounts.\n\n100% of these restaurants have at least one email address. All emails were cleaned and verified in the last 10 days.\n\nBusiness activity validated by an \"Active Heartbeat\" signal in the last 30 days.",
+  "config_name": "Top 300 Active Restaurant Whales with Email in Seattle, Washington, US",
+  "export_job_id": "03d35787-b8f5-4877-9cb4-9e25ec868861",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 772045,
+  "location_name": "Seattle",
+  "location_type": "city",
+  "repo_name": "top-300-active-restaurant-whales-with-email-in-seattle-washington-us-sample-772045",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/772045/beamstation_772045_restaurants-us-wa_SAMPLE_DIST.csv",
+  "sample_pct": 6.59,
+  "sample_records": 18,
+  "sample_sha256": "6819765068bfb577782bc905129e1ece6b7496dbf3015cdd4eed8665e5dcf299",
+  "sample_size_bytes": 86308,
+  "total_records": 273,
+  "updated_at": "2026-04-07T16:54:26.833021+00:00"
+}
