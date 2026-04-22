@@ -1,12 +1,12 @@
 {
-  "export_job_id": "71474761-55ad-4414-8d05-baed2ee7774c",
+  "export_job_id": "912fc027-04d1-45a5-b22d-fbd68a0d75e8",
   "id_short": 772045,
-  "published_at": "2026-04-18T19:52:23Z",
+  "published_at": "2026-04-22T07:58:22Z",
   "repo_name": "top-300-active-restaurant-whales-with-email-in-seattle-washington-us-sample-772045",
   "sample_asset_name": "beamstation_772045_restaurants-us-wa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/772045/beamstation_772045_restaurants-us-wa_SAMPLE_DIST.csv",
-  "sample_records": 18,
-  "sample_sha256": "6819765068bfb577782bc905129e1ece6b7496dbf3015cdd4eed8665e5dcf299",
-  "sample_size_bytes": 86308,
-  "total_records": 187
+  "sample_records": 11,
+  "sample_sha256": "442df8a784acd00b55b72b06d1f2aa46d023256c3e2656cea38151c875a59902",
+  "sample_size_bytes": 58924,
+  "total_records": 119
 }
