@@ -1,6 +1,6 @@
 # Top 300 Active Restaurant Whales with Email in Seattle, Washington, US
 
-> Free BeamStation sample export with 11 rows and masked direct-contact fields.
+> Free BeamStation sample export with 10 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `772045` |
 | Location | Seattle |
 | Category | Restaurants |
-| Full dataset size | 119 records |
-| Free sample size | 11 records (9.24%) |
-| Last export | 2026-04-22T01:48:44.602042+00:00 |
+| Full dataset size | 103 records |
+| Free sample size | 10 records (9.71%) |
+| Last export | 2026-04-29T04:47:33.951714+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-300-active-restaurant-whales-with-email-in-seattle-washington-us-sample-772045/releases/download/sample-latest/beamstation_772045_restaurants-us-wa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
